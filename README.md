@@ -829,6 +829,8 @@ For 3D websites, investigate:
 * Spot-check a sample of tool pages with the URL Inspection tool to confirm rendered HTML actually includes the important text content, not just the canvas shell.
 * Watch the Core Web Vitals report for regressions after any 3D asset or dependency update.
 
+* [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - Free remote MCP access for an AI assistant to check owned-site search-query/page performance and URL inspection during this routine; CrakSEO authentication and property authorization required. It does not render or inspect 3D assets.
+
 ---
 
 # Developer Tools
